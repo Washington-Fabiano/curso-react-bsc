@@ -1,2 +1,3 @@
 # curso-react-bsc
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://k19i9e.csb.app/)
